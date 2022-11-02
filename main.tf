@@ -5,8 +5,8 @@
 // If you just want to run this file to create the flags, then:
 // 1. Edit the .tfvars file to add your project key and an API access token.
 // 2. Ensure that you have Terraform installed.
-// 3. Run: terraform plan -var-file=".tfvars"
-// 4. Assuming you got no errors from step 3, run: terraform apply -var-file=".tfvars"
+// 3. Run: terraform plan -var-file="terraform.tfvars"
+// 4. Assuming you got no errors from step 3, run: terraform apply -var-file="terraform.tfvars"
 // 5. Go check out your new flags!
 
 terraform {
