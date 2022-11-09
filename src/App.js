@@ -32,8 +32,8 @@ function App() {
       <div className={headerStyle}>
         <Heart />
         <CustomerLogo />
-        <QRCode />
         <Buttons />
+        <QRCode />
         <br />
         <Toggle />
       </div>
